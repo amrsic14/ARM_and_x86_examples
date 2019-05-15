@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+void __attribute__((fastcall)) reverse(int array[], int n);
+
+int main(){
+	int n = 7;
+	int array[5];
+	array[0] = 1
+	reverse(array, n);
+	int i = 0;
+	for(i; i < n; i++)
+		printf("%i ", array[i]);
+	printf("\n");
+	return 0;
+};
+

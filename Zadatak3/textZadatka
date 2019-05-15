@@ -1,0 +1,7 @@
+a)int obrada(int niz[], int n, int x)
+niz[]->pocetna adresa niza
+n->broj elemenata niza
+x->vrednost cije pojavljivanje iz niza treba da se izbaci
+povratna vrednost jeste novi broj elemenata niza
+b)klasika inicijalizovanje niza duzine 100
+c)poziv iz Ca fje obrada i ispis novonastalog niza

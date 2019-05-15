@@ -1,0 +1,4 @@
+A) napisati funkciju koja sortira niz i prima pokazivač na početak i dužinu (FASTCALL) 
+B.) Definisati niz od 100 elemenata, popuniti ga vrednostima 1 2 3 4 5 6 7 1 2 3 4 5 6 7.... I definisati konstante NIZ_START i NIZ_STOP (one direktive) 
+C) Napisati glavni program na jeziku C koji računa dužinu niza, poziva sortiranje i ispisuje sortiran niz
+

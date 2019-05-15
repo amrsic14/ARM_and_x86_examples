@@ -1,0 +1,3 @@
+int obrada(int niz[], int n, int x);
+TReba da se vrati indeks prvog elementa u nizu koji je veci od x, fastcall konvencija. Popuniti niz od 100 elemenata kao 1, 2, 3. I napisati kod u C-u koji pozova ovu fju.
+
